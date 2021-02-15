@@ -1,5 +1,9 @@
 <Root>
 <Child></Child>
 <secndChild></secndChild>
+<<<<<<< HEAD
 <ThirdRecordFromMaster></ThirdRecordFromMaster>
+=======
+<ThirdRecordFromDeveloer></ThirdRecordFromDeveloper>
+>>>>>>> 2366311 (Updated FristFile.txt to have thirdChildElementFromDeveloper branch)
 </Root>
