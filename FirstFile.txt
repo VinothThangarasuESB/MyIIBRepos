@@ -1,4 +1,5 @@
 <Root>
 <Child></Child>
 <secndChild></secndChild>
+<ThirdRecordFromMaster></ThirdRecordFromMaster>
 </Root>
